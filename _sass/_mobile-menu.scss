@@ -2,3 +2,32 @@
   height: 100%;
   overflow: hidden;
 }
+.mobile-menu-button {
+	display: none;
+}
+@include media-query($on-palm) {
+	.mobile-menu-ribbon {
+		background: $background-color;
+		z-index: 999;
+		width: 100%;
+		height: $mobile-ribbon-height;
+		display: block;
+		position: fixed;
+		top: 0;
+		left: 0;
+	}
+	.mobile-menu-button {
+		top: $spacing-unit / 2;
+		left: $spacing-unit;
+		display: block;
+		position: fixed;
+		padding: 0;
+		z-index: 999;
+	}
+	.menu-icon {
+		@include basic-icon('../images/icons/menu.svg');
+	}
+	.close-menu-icon {
+		@include basic-icon('../images/icons/close-menu.svg');
+	}
+}

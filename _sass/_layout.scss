@@ -4,14 +4,15 @@
 
 .site-header {
     min-height: $nav-height;
+	@include media-query($on-palm) {
+        margin-top: $mobile-ribbon-height;
+    }
 }
-.floating-menu {
+.floating-side-menu {
     width: 35px;
-    margin: 0;
     left: 0;
     top: 30%;
     background-color: #fff;
-    max-width: 75px;
     position: fixed;
     margin: 0 1%;
     padding: 0;
@@ -49,10 +50,6 @@
     }
 }
 .title-bar {
-
-    .menu-button {
-        display: none;
-    }
     .table-left {
         @include table-cell(left);
     }
@@ -61,18 +58,6 @@
     }
     .table-right {
         @include table-cell(right);
-    }
-
-    @include media-query($on-palm) {
-        .menu-button {
-            @include table-cell(left);
-        }
-        .menu-icon {
-            @include basic-icon('../images/icons/menu.svg');
-        }
-        .close-menu-icon {
-            @include basic-icon('../images/icons/close-menu.svg');
-        }
     }
 }
 
@@ -103,7 +88,7 @@
         position: absolute;
         width: 100%;
         height: 100%;
-        top: $nav-height; left: 0;
+        top: 0; left: 0;
         background-color: $background-color;
         padding-left: 0;
         padding-right: 0;

@@ -3,8 +3,6 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
@@ -33,8 +31,7 @@ $on-laptop:        958px;
 // Image sizes
 $icon-size:         13px;
 $icon-size-mobile:  26px;
-$logo-width:        26px;
-$logo-height:       26px;
+$mobile-ribbon-height: $icon-size-mobile + $spacing-unit;
 
 
 // Using media queries with like this:
