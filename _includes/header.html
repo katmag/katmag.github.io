@@ -1,0 +1,45 @@
+<header class="site-header">
+    <div class="wrapper">
+        <div class="title-bar">
+            <div class="menu-button">
+                <a href="#" class="menu-icon">
+                </a>
+            </div>
+            <div class="table-left">
+            </div>
+            <div class="site-logo">
+                <a class="site-title" href="{{ site.baseurl }}/"><img alt="katmag.lt" src="/images/logo3.jpg" />
+                </a>
+            </div>
+            <div class="table-right">
+            </div>
+            </div>
+        </div>
+    </div>
+
+
+    <nav class="site-nav">
+        {% assign nav_pages = site.pages | where:"show_in_nav",true %}
+        {% for page in nav_pages | sort:"order_nav" %}
+            {% if page.title %}
+                <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title}}</a>
+            {% endif %}
+        {% endfor %}
+    </nav>
+
+    <div class="floating-menu">
+        <div class="social-links">
+            <a target="_blank" href="https://www.facebook.com/merezshnikova" class="facebook-icon">
+            </a><br/>
+            <a target="_blank" href="https://instagram.com/kmerez/" class="instagram-icon">
+            </a><br/>
+            <a target="_blank" href="https://www.pinterest.com/nordiste" class="pinterest-icon">
+            </a>
+        </div>
+
+        <form class="search-form">
+                <a href="#" class="search-icon"></a>
+                <input type="text" class="search-box hidden" id="search" placeholder="Search..." />
+            </form>
+    </div>
+</header>

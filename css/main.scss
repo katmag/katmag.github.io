@@ -1,0 +1,83 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 56px;
+
+$spacing-unit:     10px;
+$nav-height:       56px;
+
+$text-color:       #111;
+$background-color: #ffffff;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    1000px;
+$content-width-2:  700px;
+$post-image-width: 300px;
+$post-image-height: 300px;
+
+$on-palm:          634px;
+$on-laptop:        958px;
+
+// Image sizes
+$icon-size:         13px;
+$icon-size-mobile:  26px;
+$logo-width:        26px;
+$logo-height:       26px;
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+@mixin table-cell($align) {
+    width: $content-width;
+    padding-top: 0px;
+    text-align: $align;
+    display: table-cell;
+    vertical-align: middle;
+    //line-height: $nav-height;
+    padding: $spacing-unit / 2;
+}
+
+@mixin basic-icon($icon-url) {
+    display: block;
+    width: $icon-size;
+    height: $icon-size;
+    margin-bottom: $spacing-unit * 2;
+    background: url($icon-url);
+    background-size: $icon-size $icon-size;
+    @include media-query($on-palm) {
+        width: $icon-size-mobile;
+        height: $icon-size-mobile;
+        background-size: $icon-size-mobile $icon-size-mobile;
+    }
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "mobile-menu"
+;
