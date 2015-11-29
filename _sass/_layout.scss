@@ -396,7 +396,7 @@
 @include media-query($on-palm) {
     .img {
         width: 100%;
-        height: $post-image-width;
+        height: $post-image-height;
         background-size: cover;
         overflow: hidden;
     }
