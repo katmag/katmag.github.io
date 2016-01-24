@@ -51,13 +51,13 @@
 }
 .title-bar {
     .table-left {
-        @include table-cell(left);
+        @include table-cell(left, 20%);
     }
     .site-logo {
-        @include table-cell(center);
+        @include table-cell(center, 60%);
     }
     .table-right {
-        @include table-cell(right);
+        @include table-cell(right, 20%);
     }
 }
 

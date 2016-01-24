@@ -47,7 +47,7 @@ $mobile-ribbon-height: $icon-size-mobile + $spacing-unit;
     }
 }
 
-@mixin table-cell($align) {
+@mixin table-cell($align, $width) {
     width: $content-width;
     padding-top: 0px;
     text-align: $align;
@@ -55,6 +55,9 @@ $mobile-ribbon-height: $icon-size-mobile + $spacing-unit;
     vertical-align: middle;
     //line-height: $nav-height;
     padding: $spacing-unit / 2;
+	@include media-query($on-palm) {
+		width: $width;
+	}
 }
 
 @mixin basic-icon($icon-url) {
