@@ -1,0 +1,43 @@
+.only-laptop {
+	&.social-links {
+		margin: 0;
+		padding: 0;
+		display: block;
+		@include media-query($on-palm) {
+			display: none;
+		}
+	}
+	&.social-links ul {
+		list-style: none;
+		margin: 0;
+		@include media-query($on-palm) {
+			display: none;
+		}
+	}
+
+	&.social-links ul li{
+		display:block;
+		@include media-query($on-palm) {
+			display: none;
+		}
+	}
+}
+
+.only-palm {
+	&.social-links {
+		float: left;
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+		padding: 0;
+	}
+
+	&.social-links ul {
+		list-style: none;
+		margin: 0;
+	}
+
+	&.social-links ul li{
+		display:inline-block;
+	}
+}

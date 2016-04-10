@@ -1,0 +1,47 @@
+.only-laptop {
+	&#search-form-side {
+		@include media-query($on-palm) {
+			display: none;
+		}
+	}
+	&#search-form-side #search-icon-side {
+		margin-top: 0;
+		@include media-query($on-palm) {
+			display: none;
+		}
+	}
+	&#search-form-side #search-input-side {
+		position: fixed;
+		width: 100px;
+		height: $icon-size;
+		margin-left: $spacing-unit;
+		margin-top: $icon-size * 3 + $icon-margin * 4 ;
+		left: $icon-size + $spacing-unit * 2;
+		top: 30%;
+		background-color: #fff;
+		outline: 0;
+		padding: 0;
+        background-color: transparent;
+        border: 0px solid;
+        color: #CCC;
+	}
+}
+
+.only-palm {
+	&#search-form-bottom {
+		display: none;
+		@include media-query($on-palm) {
+			display: block;
+            text-align: center;
+        }
+	}
+    &#search-form-bottom #search-input-bottom {
+        display: none;
+		@include media-query($on-palm) {
+            display: inline-block;
+            width: 80%;
+            text-align: center;
+            border: 2px black solid;
+        }
+    }
+}

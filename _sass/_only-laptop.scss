@@ -1,0 +1,9 @@
+.only-laptop {
+	display: inline-block;
+}
+
+@include media-query($on-palm) {
+	.only-laptop {
+		display: none;
+	}
+}

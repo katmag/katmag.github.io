@@ -1,29 +1,30 @@
 <footer class="site-footer">
+	<div class="wrapper">
+		<div class="footer-block">
+			<p class="text">{{ site.description }}</p>
+		</div>
 
-  <div class="wrapper">
+		<div class="footer-block">
+			<ul class="contact-list">
+				{% assign footer_pages = site.pages | where:"show_in_footer",true %}
+				{% for page in footer_pages | sort:"order_footer" %}
+					{% if page.title %}
+						<li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title}}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+	  	</div>
 
-    <h2 class="footer-heading">© 2015 {{ site.title }}</h2>
+	  	<div class="footer-block">
+			{% include social-links.html type="only-palm" %}
+	  	</div>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-            {% assign footer_pages = site.pages | where:"show_in_footer",true %}
-            {% for page in footer_pages | sort:"order_footer" %}
-                {% if page.title %}
-                    <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title}}</a></li>
-                {% endif %}
-            {% endfor %}
-        </ul>
-      </div>
+		<div class="footer-block">
+			{% include search-bottom.html type="only-palm" %}
+	  	</div>
 
-      <div class="footer-col  footer-col-2">
-      </div>
-
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
-      </div>
-    </div>
-
-  </div>
-
+	  	<div class="footer-block center">
+			© 2015 {{ site.title }}
+	  	</div>
+	</div>
 </footer>

@@ -29,19 +29,8 @@
         {% endfor %}
     </nav>
 
-    <div class="floating-side-menu">
-        <div class="social-links">
-            <a target="_blank" href="https://www.facebook.com/merezshnikova" class="facebook-icon">
-            </a><br/>
-            <a target="_blank" href="https://instagram.com/kmerez/" class="instagram-icon">
-            </a><br/>
-            <a target="_blank" href="https://www.pinterest.com/nordiste" class="pinterest-icon">
-            </a>
-        </div>
-
-        <form class="search-form">
-                <a href="#" class="search-icon"></a>
-                <input type="text" class="search-box hidden" id="search" placeholder="Search..." />
-            </form>
+    <div id="floating-side-menu">
+		{% include social-links.html type="only-laptop" %}
+		{% include search-side.html type="only-laptop" %}
     </div>
 </header>

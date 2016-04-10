@@ -44,6 +44,7 @@ ul, ol, dl, figure,
  */
 img {
     max-width: 100%;
+    width: 100%;
     vertical-align: middle;
 }
 
@@ -58,16 +59,15 @@ figcaption {
     font-size: $small-font-size;
 }
 
-
 /**
- * Inputs
+ * Remove border highlight on all basic form elements
  */
-input {
-    background-color: transparent;
-    border: 0px solid;
-    height: 20px;
-    width: 160px;
-    color: #CCC;
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
 }
 
 
@@ -146,15 +146,20 @@ blockquote {
     max-width:         calc(#{$post-image-width}*3 + (#{$spacing-unit}*4));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-right: $floating-side-menu-width;
+    padding-left: $floating-side-menu-width;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$post-image-width}*2 + (#{$spacing-unit}*3));
         max-width:         calc(#{$post-image-width}*2 + (#{$spacing-unit}*3));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+        padding-right: $floating-side-menu-width;
+        padding-left: $floating-side-menu-width;
+    }
+
+    @include media-query($on-palm) {
+        padding-right: $spacing-unit/2;
+        padding-left: $spacing-unit/2;
     }
 }
 

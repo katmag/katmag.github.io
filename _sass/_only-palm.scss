@@ -1,0 +1,9 @@
+.only-palm {
+	display: none;
+}
+
+@include media-query($on-palm) {
+	.only-palm {
+		display: inline-block;
+	}
+}

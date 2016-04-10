@@ -25,13 +25,18 @@ $content-width:    1000px;
 $post-image-width: 300px;
 $post-image-height: 300px;
 
-$on-palm:          768px;
-$on-laptop:        958px;
-
-// Image sizes
+// Object sizes
 $icon-size:         13px;
-$icon-size-mobile:  26px;
-$mobile-ribbon-height: $icon-size-mobile + $spacing-unit;
+$icon-size-mobile:  20px;
+$icon-margin:		$spacing-unit*2;
+
+$floating-side-menu-width: $icon-size + $icon-margin*2;
+$mobile-ribbon-height: $icon-size-mobile + $icon-margin*2 + $spacing-unit;
+
+$on-palm:          $post-image-width*2 + $spacing-unit*3 + $floating-side-menu-width*2;
+$on-laptop:        $post-image-width*3 + $spacing-unit*4 + $floating-side-menu-width*2;
+
+
 
 
 // Using media queries with like this:
@@ -64,7 +69,7 @@ $mobile-ribbon-height: $icon-size-mobile + $spacing-unit;
     display: block;
     width: $icon-size;
     height: $icon-size;
-    margin-bottom: $spacing-unit * 2;
+    margin: $icon-margin;
     background: url($icon-url);
     background-size: $icon-size $icon-size;
     @include media-query($on-palm) {
@@ -78,5 +83,9 @@ $mobile-ribbon-height: $icon-size-mobile + $spacing-unit;
 @import
         "base",
         "layout",
-        "mobile-menu"
+        "mobile-menu",
+		"only-laptop",
+		"only-palm",
+		"social-links",
+		"search"
 ;
