@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2015-08-13T00:00:00.000Z
+date: 2016-08-13T00:00:00.000Z
 category: portfolio
 tags: notes
 image: due-fashion-japan.jpg
