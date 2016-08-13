@@ -5,7 +5,7 @@ layout: post
 date: 2016-08-13T18:00:00.000Z
 category: portfolio
 tags: notes
-image: kaip-zydejimas-vysnios/sentaro-ir-wakana.jpg
+image: kaip-zydejimas-vysnios/visi.jpg
 meta: 'nuotraukos &#58; Kino teatro „Pasaka“ archyvas'
 intro: >
   Jau septintąjį sezoną pradėjęs ir spėjęs įsibėgėti vasariškiausias kino
