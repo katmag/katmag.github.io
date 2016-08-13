@@ -1,9 +1,23 @@
 ---
 published: false
+layout: post
+date: 2015-08-14T00:00:00.000Z
+category: portfolio
+tags: notes
+image: due-fashion-japan.jpg
+intro: >
+  Darbas lygiai taip pat kaip ir atostogos yra neatsiejama daugiau ar mažiau
+  suaugusio žmogaus vasaros dalis. Ofise, fabrike ar laukuose, apsikabinus
+  nešiojamąįį kompiuterį ar gitarą, kondicionierių vėsumoje ar laisvės karštyje
+  – skirtingos darbo sąlygos reikalauja skirtingų aprangos kodų. Tačiau atlikus
+  nemenką internetinį tyrimą bei mados „šventųjų raštų“ – įvairaus senumo ir
+  alternatyvumo lygio žurnalų – apžvalgą, paaiškėjo, kad visgi egzistuoja
+  garderobo elementas, kuris yra universalus. tinka visiems ir visada, o
+  ypatingai daugiau ar mažiau karštesnę vasarą. Įvairių interpretacijų „T“
+  formos marškinėliai, kurie būtent dėl savo formos angliškai vadinasi
+  nedvipramiškai – „t-shirt“.
 ---
-#SEZONO PAPUOŠALAS – DARBAS 
- 
-Darbas lygiai taip pat kaip ir atostogos yra neatsiejama daugiau ar mažiau suaugusio žmogaus vasaros dalis. Ofise, fabrike ar laukuose, apsikabinus nešiojamąįį kompiuterį ar gitarą, kondicionierių vėsumoje ar laisvės karštyje – skirtingos darbo sąlygos reikalauja skirtingų aprangos kodų. Tačiau atlikus nemenką internetinį tyrimą bei mados „šventųjų raštų“ – įvairaus senumo ir alternatyvumo lygio žurnalų – apžvalgą, paaiškėjo, kad visgi egzistuoja garderobo elementas, kuris yra universalus. tinka visiems ir visada, o ypatingai daugiau ar mažiau karštesnę vasarą. Įvairių interpretacijų „T“ formos marškinėliai, kurie būtent dėl savo formos angliškai vadinasi nedvipramiškai – „t-shirt“.
+#SEZONO PAPUOŠALAS – DARBAS
 
 ##Dar vienas laisvės simbolis
 
