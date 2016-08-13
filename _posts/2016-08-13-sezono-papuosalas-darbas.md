@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2015-08-14T00:00:00.000Z
+date: 2015-08-13T00:00:00.000Z
 category: portfolio
 tags: notes
 image: due-fashion-japan.jpg
@@ -17,9 +17,13 @@ intro: >
   formos marškinėliai, kurie būtent dėl savo formos angliškai vadinasi
   nedvipramiškai – „t-shirt“.
 ---
-#SEZONO PAPUOŠALAS – DARBAS
+SEZONO PAPUOŠALAS – DARBAS
+==========================
 
-##Dar vienas laisvės simbolis
+![Work](\images\du-fashion-japan.jpg)
+
+Dar vienas laisvės simbolis
+---------------------------
 
 „Gėlių vaikų“ laikais vienas reklaminių plakatų teigė, kad marškinėliai yra „drabužis, išlaisvinęs Ameriką“. Turbūt drauge su taip pamėgtais laisvamanių džinsais. Lygiai taip pat, kaip ir denimo, marškinėlių paskirtis jų pradiniame etape buvo visiškai kitokia, negu dabar mes pratę įsivaizduoti. Tai buvo vyriško apatinio trioktažo sudedamoji dalis. Dažniausiai baltos spalvos, mat tai ne tik tyrumo ir visų neapsakomų dorybių simbolis, bet dar ir higienos, švaros ženklas.
 Higienos sumetimais iš pat pradžių buvo naudojama šimtaprocentinė medvilnė: ji buvo mažiau varžanti negu lino audiniai, sugerdavo prakaitą, išlietą darbo metu. Įdomu tai, kad marškinėlių medžiaga, gaminamų darbui, sportui, laisvalaikiui,  istorijos pradžioje buvo daugiau nei įprasto sunkaus darbo rezultatas. Tai buvo vergijos JAV medvilnės laukuose vaisius. Manoma, kad Medvilnės regionas (angl. Cotton Belt) ir jo tamsi vergijos praeitis (iki JAV Pilietinio karo pabaigos 1865 metais) yra priežastis, dėl kurios dar XX amžiaus pradžioje, Jungtinės Amerikos valstijos užėmė lyderės pozicijas šioje rinkoje. Aišku, vėliau, kaip mes žinome, pasaulis apsivertė, ir darbščios rankytės, darbuotojų teisių nebuvimas ir /arba nepaisymas bei masinė gamyba iškėlė kitą pasaulio kraštą – Rytų Aziją.
@@ -28,7 +32,8 @@ Aukštoji mada iškėlė ir priėmė marškinėlius į būtinų (angl. basics) d
 Šiek tiek vėliau Yves Saint Laurent, pristatęs mėlynus marškinėlius ilgomis rankovėmis su baltu savo vardo užrašu,  teigė: „ Dvidešimtmetei merginai nereikia nieko – tik džinsų ir marškinėlių, kai jai sukaks trisdešimt tada ji pamažu taps įdomesne“.  Jo argumentas buvo tas, kad vienintelis dalykas, puošiantis jaunas moteris, yra laisvė.
 Faktą, kad dizaineriai greitai ir ilgam įsimylėjo paprastus marškinėlius puikiai iliustruoja ne tik marškinėlių nuolatinis buvimas ant podiumo ir žurnalų puslapiuose. Dvidešimto amžiaus devinto dešimtmečio pabaigoje, kai mada tapo spektakliu, o principas „mada yra madinga“ įsigalėjo, išpopuliarėjo kvietimai ant paprastų baltų marškinėlių, kuriuos dizaineriai siųsdavo žurnalistams bei savo klientams prieš kolekcijų pristatymus. Nežinia, kam gimė ši mintis, tačiau tokių marškinėlių-kvietimų galima rasti tikrai nemažai: pradedant kvietimu į Christian Dior pristatymą rugsėjo 4 d. 1987 metais ir baigiant belgo Dries Van Noten kolekcija, pristatyta birželio 30 d. 1995 metais.
 
-##Greitos mados ilgos valandos
+Greitos mados ilgos valandos
+----------------------------
 
 Ir nors atrodytų, kad aukštosios mados ir marškinėlių sąjunga yra ganėtinai tvirta, visgi marškinėliai yra ir  fast fashion   (liet. greitosios mados) stichija. Tenka pripažinti, kad tai yra visiškai nesudėtingas garderobo elementas, kuris vargu ar padėtų išrasti mados dviratį: viskas priklauso tik nuo užrašų, print‘ų, spalvų, kurie gali sukurti ypatingą turinį, suasmeninti marškinėlius, paversti juos tinkamus vienai ar kitai situacijai. Todėl tai ypatingai derlingas laukas fast fashion prekės ženklams. Kodėl?
 
