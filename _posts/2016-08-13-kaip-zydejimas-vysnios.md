@@ -68,6 +68,8 @@ Ir tokia nesusipratusio žiūrovo reakcija bus absoliučiai natūrali. Ją gali 
 trūkumas: paprasčiausiai pamirštame, kad kitų kultūrų žmonės elgiasi visai kitaip ir reaguoja į 
 paprastus dalykus kitaip, nei reaguotume mes. Teoriškai visi tai žinome, kasdienybėje ir vertindami kiną ar literatūrą – dažnai pamirštame ir turime nepamatuotų lūkesčių. Japonų kultūros atveju – tai itin ryški tendencija. Tikimės moderniųjų technologijų triumfo, o gauname šiuolaikinę senų tradicijų ir filosofinių nuostatų interpretaciją. Įdomu tai, kad japonų kasdienybėje tradicijos ir iš senų laikų atėjusios socialinio elgesio taisyklės iš tiesų galioja dabar. Jos niekada ir nebuvo nustojusios galioti. Mandagumo formos, tam tikras socialinės padėties pabrėžimas ir su juo susijusios normos yra sunkiai suvokiamos mūsų pasaulio krašte gyvenančiam eiliniam žmogui. Būtent todėl labai dažnai japonų meno kūriniai nėra lengvai priimami ir suprantami. Juk tai visada iššūkis: reikia atsiriboti nuo to, ką jau žinai, ir pabandyti priimti visiškai naują, bet puikų pasaulį.
 
+![Kadras iš filmo „Kaip žydėjimas vyšnios“ Kino teatro „Pasaka“ archyvas]({{site.baseurl}}/images/kaip-zydejimas-vysnios/sentaro.jpg)
+
 Filmo „Kaip žydėjimas vyšnios“ veikėjai tikrai neišgyvena sukrečiančių meilės istorijų, nekuria 
 pasaulinio garso muzikos hitų, negelbėja princesių ir tuo labiau pasaulio. Nuo filmo pradžios iki 
 pabaigos įvyksta vos keli dalykai, tačiau situacija iš esmės nepasikeičia – herojai, jautę stoką, vis dar ją jaučia: Sentaro vis dar yra priklausomas, jo finansinė padėtis sunki, Vakanos likimas taip pat vargiai pasikeitė. Pragmatiniame, kasdienybės lygmenyje nepasikeitė niekas. Tačiau veikėjai, susipažinę vieni su kitais ir patyrę santykius, kokie jie yra, jaučiasi pasikeitę. Tai, be jokios abejonės, yra svarbiau nei laiminga pasakos pabaiga. Paklauskite savęs, kiek kartų realiame gyvenime matėte holivudiškai baltas šypsenas ir laimingas atomazgas (žinote, kai visi susituokia ir gyvena ilgai ir laimingai)? Manau, atvejų, kai nieko neįvyko, bet jautėtės visiškai kitaip, buvo daugiau. Apie tai ir pasakoja „Kaip žydėjimas vyšnios“ subtilia japonų grožio kalba.
@@ -75,6 +77,6 @@ pabaigos įvyksta vos keli dalykai, tačiau situacija iš esmės nepasikeičia �
 
 ![Kadras iš filmo „Kaip žydėjimas vyšnios“ Kino teatro „Pasaka“ archyvas]({{site.baseurl}}/images/kaip-zydejimas-vysnios/sentaro-ir-wakana.jpg)
 
-![Kadras iš filmo „Kaip žydėjimas vyšnios“ Kino teatro „Pasaka“ archyvas]({{site.baseurl}}/images/kaip-zydejimas-vysnios/tokue.jpg)
 
-![Kadras iš filmo „Kaip žydėjimas vyšnios“ Kino teatro „Pasaka“ archyvas]({{site.baseurl}}/images/kaip-zydejimas-vysnios/sentaro.jpg)
+
+
