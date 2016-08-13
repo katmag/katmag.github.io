@@ -5,7 +5,7 @@ layout: post
 date: 2016-08-13T18:00:00.000Z
 category: portfolio
 tags: notes
-image: kaip-zydejimas-vysnios\visi.jpg
+image: kaip-zydejimas-vysnios/visi.jpg
 meta: 'nuotraukos &#58; gjgkjh'
 intro: >
   Jau septintąjį sezoną pradėjęs ir spėjęs įsibėgėti vasariškiausias kino
