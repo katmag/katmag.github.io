@@ -16,11 +16,9 @@ intro: >
   ypatingai daugiau ar mažiau karštesnę vasarą. Įvairių interpretacijų „T“
   formos marškinėliai, kurie būtent dėl savo formos angliškai vadinasi
   nedvipramiškai – „t-shirt“.
+title: Sezono papuošalas – darbas
 ---
-SEZONO PAPUOŠALAS – DARBAS
-==========================
-
-![Work](\images\du-fashion-japan.jpg)
+![Work](\images\due-fashion-japan.jpg)
 
 Dar vienas laisvės simbolis
 ---------------------------
@@ -29,7 +27,9 @@ Dar vienas laisvės simbolis
 Higienos sumetimais iš pat pradžių buvo naudojama šimtaprocentinė medvilnė: ji buvo mažiau varžanti negu lino audiniai, sugerdavo prakaitą, išlietą darbo metu. Įdomu tai, kad marškinėlių medžiaga, gaminamų darbui, sportui, laisvalaikiui,  istorijos pradžioje buvo daugiau nei įprasto sunkaus darbo rezultatas. Tai buvo vergijos JAV medvilnės laukuose vaisius. Manoma, kad Medvilnės regionas (angl. Cotton Belt) ir jo tamsi vergijos praeitis (iki JAV Pilietinio karo pabaigos 1865 metais) yra priežastis, dėl kurios dar XX amžiaus pradžioje, Jungtinės Amerikos valstijos užėmė lyderės pozicijas šioje rinkoje. Aišku, vėliau, kaip mes žinome, pasaulis apsivertė, ir darbščios rankytės, darbuotojų teisių nebuvimas ir /arba nepaisymas bei masinė gamyba iškėlė kitą pasaulio kraštą – Rytų Aziją.
 
 Aukštoji mada iškėlė ir priėmė marškinėlius į būtinų (angl. basics) daiktų sąrašą tada, kai jau nebepajėgė atlaikyti gatvės stiliaus spaudimo – visų Saint-Tropez merginų, pasiskolinusių iš savo vaikinų baltus Fruit of the Loom marškinėlius 1957 metais, Brigitte Bardot įtakos mados pasauliui. Aukštoji mada pirmąkart išvydo  marškinėlius ant podiumo Christian Dior dėka. Dizaineris siūlė juos 1962 metų vasaros sezonui. Tada viskas ir prasidėjo...
+
 Šiek tiek vėliau Yves Saint Laurent, pristatęs mėlynus marškinėlius ilgomis rankovėmis su baltu savo vardo užrašu,  teigė: „ Dvidešimtmetei merginai nereikia nieko – tik džinsų ir marškinėlių, kai jai sukaks trisdešimt tada ji pamažu taps įdomesne“.  Jo argumentas buvo tas, kad vienintelis dalykas, puošiantis jaunas moteris, yra laisvė.
+
 Faktą, kad dizaineriai greitai ir ilgam įsimylėjo paprastus marškinėlius puikiai iliustruoja ne tik marškinėlių nuolatinis buvimas ant podiumo ir žurnalų puslapiuose. Dvidešimto amžiaus devinto dešimtmečio pabaigoje, kai mada tapo spektakliu, o principas „mada yra madinga“ įsigalėjo, išpopuliarėjo kvietimai ant paprastų baltų marškinėlių, kuriuos dizaineriai siųsdavo žurnalistams bei savo klientams prieš kolekcijų pristatymus. Nežinia, kam gimė ši mintis, tačiau tokių marškinėlių-kvietimų galima rasti tikrai nemažai: pradedant kvietimu į Christian Dior pristatymą rugsėjo 4 d. 1987 metais ir baigiant belgo Dries Van Noten kolekcija, pristatyta birželio 30 d. 1995 metais.
 
 Greitos mados ilgos valandos
@@ -42,6 +42,6 @@ Atsakymas yra elementarus: visi mes esame pripratę arba pripratinti (čia jau, 
 Prekės ženklai ir mažmenininkai yra pririšti prie prekybą varančių fast fashion jėgų pigiose Azijos šalyse: vakarų prikėjai-stileivos nori kuo didesnio pasirinkimo, ir jie jo nori dabar, laukimas yra nepakeliama našta. Todėl Bangladešas su 5000 fabrikų arba Kinija su neribotu darbo laiku yra būtent TAS sprendimas. Anksčiau kompanijos užsakydavo drabužių kolekcijas kas sezoną, tačiau poreikiai bei laikas spaudžia, ir darbo valandos bei persidirbimas bandant atitikti fast fashion standartus yra didžiausios problemos, su kuriomis susiduriama paprastesnės nei aukštoji mados industrijoje. Dažniausiai dirbama tarp dešimt ir dvylikos valandų, kartais darbo valandos siekia šešiolika-aštuoniolika valandų per dieną. Septynių valandų darbo diena yra norma, ypatingai Kinijoje. Juk daug marškinėlių reikią pagaminti, nemažai print‘ų atspausdinti.
 
 Kai kuriuose fabrikuose moterys, pateikiančios prašymus dirbti, yra klausiamos, ar jos yra ištekėjusios, ar planuoja nėštumą, nes tai yra vienas iš pagrindinių faktorių, kurie gali lemti, bus priimta darbuotoja ar ne. Laiko nėštumo atostogoms ir naujoms darbuotuojų paieškoms nėra. 
-Laiko nėra niekam. Aukščiau minėtų žmonių darbas suteikia galimybę mums puoštis ir keistis vis dažniau, o jiems – pragyventi. Tačiau Bangladešo patirtis (užtenka prisiminti neseniai įvykusias katastrofas fabrikuose), primena mums, visai sotiems ir laimingiems greitosios mados vartotojams, ką gali reikšti etiketė „Made in Bangladesh“ ir pagalvoti apie tai, ar tikrai mums reikia dar vienų marškinėlių, kadaise buvusių laisvės simboliu.  
+Laiko nėra niekam. Aukščiau minėtų žmonių darbas suteikia galimybę mums puoštis ir keistis vis dažniau, o jiems – pragyventi. Tačiau Bangladešo patirtis (užtenka prisiminti neseniai įvykusias katastrofas fabrikuose), primena mums, visai sotiems ir laimingiems greitosios mados vartotojams, ką gali reikšti etiketė „Made in Bangladesh“ ir pagalvoti apie tai, ar tikrai mums reikia dar vienų marškinėlių, kadaise buvusių laisvės simboliu.
 
 Mes irgi dirbame. Kaip sakoma, darbas puošia. O kaip gi tie, kas nedirba? Turbūt ir taip jaučiasi gražūs.
