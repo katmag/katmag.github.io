@@ -20,7 +20,7 @@ intro: >
 
 ![Kadras iš filmo „Kaip žydėjimas vyšnios“ Kino teatro „Pasaka“ archyvas]({{site.baseurl}}/images/kaip-zydejimas-vysnios/visi.jpg)
 
-Nors lietuviškas filmo pavadinimas asocijuojasi su gana nevienareikšmiškai vertinamos poetės eilėmis ar tradicine giminės susibūrimų daina, 2015 m. japonų filmas turi mažai ką bendro su pastarųjų estetika. Naomi Kawase darbas „Kaip žydėjimas vyšnios“ („An“ , 2015) atidarė 2015 m. Kanų kino festivalio „Ypatingo žvilgsnio“ (Un Certain Regard) programą. Tai – dramatiškas, bet itin subtilus pasakojimas apie trapų žmogaus ir gamtos grožį, apie dalykus, kurie nieko nekeičia ir tuo pačiu keičia viską.
+Nors lietuviškas filmo pavadinimas asocijuojasi su gana nevienareikšmiškai vertinamos poetės eilėmis ar tradicine giminės susibūrimų daina, 2015&nbsp;m. japonų filmas turi mažai ką bendro su pastarųjų estetika. Naomi Kawase darbas „Kaip žydėjimas vyšnios“ („An“ , 2015) atidarė 2015 m. Kanų kino festivalio „Ypatingo žvilgsnio“ (Un Certain Regard) programą. Tai – dramatiškas, bet itin subtilus pasakojimas apie trapų žmogaus ir gamtos grožį, apie dalykus, kurie nieko nekeičia ir tuo pačiu keičia viską.
 
 Naomi Kawase yra mėgstama kino festivalių režisierė, ne pirmą kartą reprezentuojanti Japonijos kiną Europoje. Režisierė jau kelis kartus buvo pakviesta į Kanų festivalį, ne kartą dalyvavo 
 konkursinėje programoje bei buvo žiuri narė. Naujausias jos darbas „Kaip žydėjimas vyšnios“, kurio 
