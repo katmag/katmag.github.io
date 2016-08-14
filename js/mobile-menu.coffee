@@ -1,10 +1,10 @@
 ---
 ---
 jQuery ($) ->
-    menu-icon = $('.menu-icon')
+    menu-button = $('#mobile-menu-button')
     menu = $('.site-nav')
     body = $('body')
-    menu-icon.on "click", ->
+    menu-button.on "click", ->
         menu.toggleClass 'menu'
-        menu-icon.toggleClass 'close-menu-icon'
+        menu-button.toggleClass 'open'
         body.toggleClass 'stop-scrolling'
