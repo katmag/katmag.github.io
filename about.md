@@ -4,8 +4,6 @@ title: Apie
 permalink: /about/
 show_in_nav: true
 order_nav: 3
-show_in_footer: true
-order_footer: 1
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
