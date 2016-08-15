@@ -3,7 +3,7 @@ layout:     post
 title:      "Fusce congue urna"
 date:       2015-09-15
 category:   portfolio
-tags:       notes
+tags:       užrašai
 image:      theater.jpg
 meta:
 intro: |

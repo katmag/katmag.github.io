@@ -3,7 +3,7 @@ layout: post
 title:  "Morbi porta ac lorem"
 date:   2015-10-06
 category: portfolio
-tags: notes
+tags: užrašai
 image: sunset.jpg
 meta:
 intro: |

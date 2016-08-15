@@ -6,7 +6,7 @@ layout: default
   <header class="post-header">
       <div class="post-tags">
         {% for tag in page.tags %}
-          <a class="page-link" href="{{ tag | prepend: '/' }}">{{ tag | upcase }}</a>
+          <a href="{{ tag | prepend: '/tag/?tag=' }}">{{ tag }}</a>
         {% endfor %}
       </div>
 

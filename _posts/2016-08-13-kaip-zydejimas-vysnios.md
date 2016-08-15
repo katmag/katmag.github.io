@@ -4,7 +4,7 @@ title: KAIP ŽYDĖJIMAS VYŠNIOS „PO ŽVAIGŽDĖMIS“
 layout: post
 date: 2016-08-13T18:00:00.000Z
 category: portfolio
-tags: notes
+tags: užrašai
 image: kaip-zydejimas-vysnios/visi.jpg
 meta: 'nuotraukos &#58; Kino teatro „Pasaka“ archyvas'
 intro: >

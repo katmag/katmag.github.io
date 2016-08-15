@@ -3,7 +3,7 @@ layout: post
 title:  "Viverra ili ca viverra"
 date:   2015-09-23
 category: blog
-tags: interview
+tags: interviu
 image: office.jpg
 meta:
 intro: |

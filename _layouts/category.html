@@ -9,7 +9,7 @@ layout: default
               <div class="img" style="background-image:url('{{post.image | prepend: '../images/'}}')"></div>
               <div class="grid-item-text">
                   <h4 class="grid-text-category">
-                        {{ post.tags | join: ' • ' | upcase }}
+                        {{ post.tags | join: ' • ' }}
                   </h4>
                   <h3 class="grid-text-title">{{ post.title }}</h3>
               </div>

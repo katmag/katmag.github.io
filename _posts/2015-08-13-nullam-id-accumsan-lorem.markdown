@@ -3,7 +3,7 @@ layout: post
 title:  "Nullam id accumsan lorem"
 date: 2015-08-13
 category: blog
-tags: interview
+tags: interviu
 image: kitten.png
 meta:
 intro: |

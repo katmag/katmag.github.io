@@ -3,7 +3,7 @@ layout: post
 title:  "Cras efficitur magna sitara que molce"
 date:   2015-08-26
 category: portfolio
-tags: interview
+tags: interviu
 image: road.jpg
 meta:
 intro: |

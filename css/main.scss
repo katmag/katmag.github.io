@@ -4,7 +4,8 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$heading-font:     Montserrat;
+$base-font-family: Adobe garamond pro;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 56px;
@@ -12,14 +13,12 @@ $base-line-height: 56px;
 $spacing-unit:     10px;
 $nav-height:       56px;
 
-$text-color:       #111;
+$text-color:       #333333;
 $background-color: #ffffff;
-$brand-color:      #2a7ae2;
+$brand-color:      #BFCDCD;
 $icon-color:        black;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color:       #5C5B58;
 
 // Width of the content area
 $content-width:    1000px;
@@ -67,18 +66,31 @@ $on-laptop:        $post-image-width*3 + $spacing-unit*4 + $floating-side-menu-w
 	}
 }
 
-@mixin basic-icon($icon-url) {
+@mixin basic-icon($icon-type) {
     display: block;
     width: $icon-size;
     height: $icon-size;
     margin: $icon-margin;
-    background: url($icon-url);
+    background: url("../images/icons/" + $icon-type + "-black.svg");
     background-size: $icon-size $icon-size;
+    &:hover {
+        background: url("../images/icons/" + $icon-type + "-brandcolor.svg");
+        background-size: $icon-size $icon-size;
+    }
     @include media-query($on-palm) {
         width: $icon-size-mobile;
         height: $icon-size-mobile;
         background-size: $icon-size-mobile $icon-size-mobile;
+        &:hover {
+            background: url("../images/icons/" + $icon-type + "-brandcolor.svg");
+            background-size: $icon-size-mobile $icon-size-mobile;
+        }
     }
+}
+
+@mixin heading-font() {
+    font-family: $heading-font;
+    text-transform: uppercase;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)

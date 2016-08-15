@@ -3,7 +3,7 @@ layout: post
 title:  "Fusce lacus enim"
 date:   2015-10-13 19:25:53
 category: portfolio
-tags: notes interview
+tags: užrašai interviu
 image: computer.jpg
 meta: nuotraukos &#58; gjgkjh
 intro: |

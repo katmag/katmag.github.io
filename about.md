@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Apie
 permalink: /about/
 show_in_nav: true
 order_nav: 3

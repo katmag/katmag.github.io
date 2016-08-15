@@ -3,7 +3,7 @@ layout: post
 title:  "Quando l'amore"
 date:   2015-08-15
 category: blog
-tags: notes
+tags: užrašai
 image: heels.jpg
 meta:
 intro: |

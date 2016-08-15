@@ -3,7 +3,7 @@ layout: post
 title:  "Suspendisse condimentum pulvinar ex"
 date:   2015-08-14
 category: portfolio
-tags: notes
+tags: užrašai
 image: coloured-huts.jpg
 meta:
 intro: |

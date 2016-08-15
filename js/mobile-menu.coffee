@@ -1,10 +1,16 @@
 ---
 ---
 jQuery ($) ->
-    menu-button = $('#mobile-menu-button')
+    menubutton = $('#mobile-menu-button')
     menu = $('.site-nav')
     body = $('body')
-    menu-button.on "click", ->
+    menubutton.on "click", ->
         menu.toggleClass 'menu'
-        menu-button.toggleClass 'open'
+        menubutton.toggleClass 'open'
         body.toggleClass 'stop-scrolling'
+    menubutton.hover (->
+        menubutton.children().toggleClass 'hovercolor'
+        return
+    ), ->
+        menubutton.children().toggleClass 'hovercolor'
+        return

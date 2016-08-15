@@ -1,3 +1,7 @@
+.search-input {
+    @include heading-font();
+}
+
 .only-laptop {
 	&#search-form-side {
 		@include media-query($on-palm) {
@@ -18,12 +22,11 @@
 		margin-top: $icon-size * 3 + $icon-margin * 4 ;
 		left: $icon-size + $spacing-unit * 2;
 		top: 30%;
-		background-color: #fff;
+		background-color: white;
 		outline: 0;
 		padding: 0;
         background-color: transparent;
         border: 0px solid;
-        color: #CCC;
 	}
 }
 
@@ -44,4 +47,20 @@
             border: 2px black solid;
         }
     }
+}
+
+::-webkit-input-placeholder {
+   color: $brand-color;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: $brand-color;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: $brand-color;
+}
+
+:-ms-input-placeholder {
+   color: $brand-color;
 }

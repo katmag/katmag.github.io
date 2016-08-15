@@ -54,6 +54,9 @@
         -moz-transition: .25s ease-in-out;
         -o-transition: .25s ease-in-out;
         transition: .25s ease-in-out;
+        &.hovercolor {
+            background: $brand-color;
+        }
     }
 
     #mobile-menu-button span:nth-child(1) {

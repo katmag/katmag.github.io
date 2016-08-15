@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Susisiek
 permalink: /contact/
 show_in_nav: false
 show_in_footer: true

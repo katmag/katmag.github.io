@@ -9,7 +9,7 @@
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
       "image"    : "{{ post.image }}",
-      "tags"     : "{{ post.tags | join: ',' | upcase }}"
+      "tags"     : "{{ post.tags | join: ',' }}"
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

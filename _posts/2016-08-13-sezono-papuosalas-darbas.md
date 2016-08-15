@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2016-08-13T00:00:00.000Z
 category: portfolio
-tags: notes
+tags: užrašai
 image: due-fashion-japan.jpg
 intro: >
   Darbas lygiai taip pat kaip ir atostogos yra neatsiejama daugiau ar mažiau
